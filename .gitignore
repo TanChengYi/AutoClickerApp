@@ -1,0 +1,13 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+
+# iOS (unused but common)
+ios/
